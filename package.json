@@ -22,5 +22,10 @@
     "serve": "^11.3.2",
     "svelte": "^3.37.0",
     "svelte-preprocess": "^4.7.0"
+  },
+  "dependencies": {
+    "d3-array": "^3.0.1",
+    "d3-fetch": "^3.0.1",
+    "date-fns": "2.21"
   }
 }

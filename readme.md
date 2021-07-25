@@ -1,6 +1,11 @@
-# Front-end template
+# Amethest
 
-This repo is meant to be a template repo. Not useful in itself, but a starter kit for other projects
+Un outil par l'Échappée Belle
+
+---
+
+# Des infos genre techniques (à nettoyer)
+
 
 This repo is based on [Jekyll](jekyllrb.com/), so content can be written in markdown or HTML
 
